@@ -1,1 +1,713 @@
-return(function(...)local V={"\110\122\075\054\084\106\065\120\050\101\109\061";"\084\107\048\080\049\101\065\081","\084\106\110\087\050\107\047\054","\090\068\104\070\090\101\100\076\047\122\055\061";"\075\079\073\053\069\079\121\100\109\079\100\100\110\089\110\102\114\097\105\061";"\049\078\047\116\048\089\110\122\121\079\055\079\049\079\084\073";"\056\079\120\120\084\105\061\061","\122\100\104\087\047\122\048\120\090\068\057\076\050\068\109\061";"\113\072\079\052\074\117\055\050\053\051\088\120\119\117\065\050\052\088\090\075\101\080\079\048\055\075\081\098\087\121\109\073\066\105\070\067\111\113\120\101\054\077\072\101\065\057\113\083\074\067\050\068\076\072\108\115\098\073\067\116\078\065\121\120\106\101\072\121\084\067\105\051\120\100\110\085\087\114\078\054\118\070\043\114\081\070\085\057\108\120\103\087\074\115\111\086\086\072\075\121\067\112\055\108\053\110\065\051\122\108\061\061";"\121\069\090\071\088\077\057\087\072\066\100\079\043\106\111\069\113\108\061\061","\047\107\075\100\056\105\061\061","\117\057\120\057\050\085\061\061","\114\110\115\114\049\107\048\053\056\110\075\099\110\054\120\111\101\054\121\061";"\047\079\057\087\047\121\061\061";"\084\079\110\112\050\101\110\112\056\122\048\120\056\106\073\054";"\098\067\048\112\084\097\090\054\090\085\061\061","\122\100\104\053\047\101\099\061","\083\076\105\054\047\111\088\103\083\105\061\061";"\084\109\057\107\069\066\057\047";"\117\097\110\086\050\068\073\073\069\057\105\066\047\068\073\122","\109\067\086\077\117\067\089\061";"\098\110\090\043\048\078\110\116\090\079\065\051\110\112\075\107\047\079\119\061","\069\100\057\120\069\110\075\113\056\081\086\082\084\102\090\101\048\108\061\061";"\075\109\057\108\109\107\047\086\114\106\086\069\084\097\073\048\101\069\055\061";"\047\079\100\120\090\068\075\088","\050\101\057\112\049\085\061\061","\114\101\110\100\069\101\110\078\101\089\088\112\056\081\075\097\056\089\114\061","\077\097\103\111\085\074\105\111\050\102\084\081\084\048\055\084\099\070\111\048\051\047\088\076\073\082\103\065\112\081\097\061";"\090\101\065\108\056\101\075\051";"\110\110\048\047\047\078\075\049\110\054\120\065\049\069\110\099","\084\068\075\120\050\068\108\061","\090\068\104\066\090\067\086\103\050\106\084\061","\050\068\110\070","\081\080\076\049\050\057\068\102\118\089\067\118\098\048\113\048\084\073\104\086\107\072\087\068\074\086\072\054\071\121\102\049\055\122\107\055\097\069\057\050\043\078\099\061";"\047\106\073\077\050\107\055\061";"\080\119\098\066\079\086\099\077\116\066\069\110\071\115\122\054\105\071\067\111\071\103\065\054\069\087\047\099\082\048\116\086\113\047\066\051";"\047\106\120\049\056\069\086\112\047\068\087\075\101\122\054\082\084\121\061\061","\050\102\055\061","","\090\107\086\067\050\081\115\116\075\105\061\061";"\084\106\057\070\047\068\104\087";"\122\100\104\103\050\106\048\054\117\085\061\061";"\110\068\057\087\084\068\110\080\055\097\048\054\090\068\110\078\090\068\110\089\055\121\061\061","\048\054\085\080\050\106\075\112\114\112\103\082","\047\122\086\080\050\107\055\061";"\047\112\114\108\050\078\055\065\109\066\047\114\050\109\119\112\101\085\061\061","\110\079\110\076\049\068\104\077\049\108\061\061","\121\078\115\048\121\100\090\075\050\069\055\108\110\109\103\116\047\108\061\061";"\090\068\057\066\049\108\061\061";"\080\053\098\054\070\078\121\061";"\090\068\057\076\050\068\109\061","\056\081\054\112\047\121\061\061","\056\079\104\070\056\079\057\112","\050\102\097\061","\122\100\104\081\056\108\061\061","\083\105\061\061","\050\068\104\120\047\067\075\112\084\106\054\070\047\108\061\061"}for U,q in ipairs({{55650+-55649;-80803+80860},{777656+-777655;-170690-(-170725)};{391404+-391368;-791481+791538}})do while q[336299-336298]<q[-632306-(-632308)]do V[q[-210919+210920]],V[q[-344105-(-344107)]],q[888956+-888955],q[-393130-(-393132)]=V[q[-28191-(-28193)]],V[q[208871-208870]],q[876987+-876986]+(-464430+464431),q[-165923-(-165925)]-(986239+-986238)end end local function U(U)return V[U-(761829-741687)]end do local U=string.char local q=table.concat local B=string.len local S=V local f=string.sub local d=type local h=table.insert local o=math.floor local C={c=51994-51938;A=393324+-393267,["\052"]=-53911-(-53922);["\050"]=176805+-176778,["\047"]=690702-690677;E=193318+-193299;n=699510+-699489,e=809167-809145,i=843962+-843930;["\053"]=-162277+162321;B=-447470+447521,U=-47137+47137,x=-750071+750104;O=-271912+271966;o=602997-602995;q=-115450-(-115492);w=-846330+846390;V=-800633+800642,Y=-289733-(-289769);d=-589490+589543;G=332778+-332715;m=180-160,["\048"]=845387-845370,D=561393+-561387,["\055"]=72042-72034,T=-756919+756947;v=-651669-(-651700),["\057"]=-717553-(-717558),l=-1040000+1040048;r=-61206-(-61218);H=-206312-(-206374),b=-752567+752585,Q=37192-37153;X=-928189+928229;["\043"]=894214-894204,a=886139+-886135,s=-735606-(-735607);["\049"]=207296-207270;W=464283-464238,R=558315-558257;S=-115492+115506;Z=100131+-100102;k=-990527+990582;z=201062+-201039;h=408426-408365,L=491089-491055,M=438365-438318,["\051"]=-533702-(-533745),p=-715266-(-715318);C=851834+-851827;y=1045568+-1045552,["\054"]=34209+-34172,N=-458670+458705;P=194406+-194356,F=914108+-914062,j=413459-413421;g=-168572-(-168613);["\056"]=-639412+639436;u=-473711+473741;J=426920-426861;I=-786247-(-786296);t=447214+-447199;K=-756215+756228;f=-15389-(-15392)}for V=3744+-3743,#S,-1021888+1021889 do local Q=S[V]if d(Q)=="\115\116\114\105\110\103"then local d=B(Q)local k={}local N=-580210+580211 local n=858491-858491 local m=372524+-372524 while N<=d do local V=f(Q,N,N)local q=C[V]if q then n=n+q*(-965758-(-965822))^((607670-607667)-m)m=m+(252649-252648)if m==875839-875835 then m=812729+-812729 local V=o(n/(-400686-(-466222)))local q=o((n%(-433517+499053))/(-186278+186534))local B=n%(-782008-(-782264))h(k,U(V,q,B))n=588978-588978 end elseif V=="\061"then h(k,U(o(n/(430635-365099))))if N>=d or f(Q,N+(-494126-(-494127)),N+(-424172-(-424173)))~="\061"then h(k,U(o((n%(-594484-(-660020)))/(469231-468975))))end break end N=N+(479599+-479598)end S[V]=q(k)end end end return(function(V,B,S,f,d,h,o,m,P,E,q,O,i,s,u,n,N,C,Y,Q,k,F)N,C,E,O,Q,n,m,P,i,k,Y,F,q,u,s=997055+-997055,{},function(V,U)local B=n(U)local S=function(...)return q(V,{...},U,B)end return S end,function(V,U)local B=n(U)local S=function(S,f)return q(V,{S;f},U,B)end return S end,{},function(V)for U=-530608+530609,#V,-72674+72675 do Q[V[U]]=Q[V[U]]+(-635315-(-635316))end if S then local q=S(true)local B=d(q)B[U(-385836+405998)],B[U(-211416-(-231591))],B[U(425581+-405387)]=V,m,function()return 1046720+-114467 end return q else return f({},{[U(-10642-(-30817))]=m;[U(29218-9056)]=V;[U(-477197-(-497391))]=function()return 986943-54690 end})end end,function(V)local U,q=794810-794809,V[69923-69922]while q do Q[q],U=Q[q]-(878715+-878714),U+(455982+-455981)if Q[q]==84579+-84579 then Q[q],C[q]=nil,nil end q=V[U]end end,function(V,U)local B=n(U)local S=function(S,f,d,h,o)return q(V,{S;f;d;h;o},U,B)end return S end,function(V,U)local B=n(U)local S=function(S,f,d,h,o,C)return q(V,{S,f;d,h,o;C},U,B)end return S end,function()N=N+(-803000-(-803001))Q[N]=325098+-325097 return N end,function(V,U)local B=n(U)local S=function(S,f,d)return q(V,{S,f,d},U,B)end return S end,function(V,U)local B=n(U)local S=function(S,f,d,h)return q(V,{S,f,d;h},U,B)end return S end,function(q,S,f,d)local X,E,v,e,j,a,g,W,c,w,Z,o,b,I,T,p,l,z,y,t,N,m,H,J,L,R,n,r,K,G,D,Q,M,x while q do if q<-126180+9118262 then if q<5412510-380652 then if q<-864635+3974318 then if q<2147823-(-166501)then if q<2112369-608179 then if q<1293014-449134 then if q<-393812-(-861499)then q=14834661-(-967678)K=nil a=s(a)L=s(L)g=s(g)y=s(y)W=s(W)c=s(c)else q=V[U(759551-739383)]o={}end else G=C[N]o=G q=G and 5494920-412141 or 7341247-(-826426)end else if q<-171429+1913211 then I=932093+-932092 Z=#w H=n(I,Z)a=215079+-215078 I=r(w,H)Z=C[z]c=I-a q=7503172-(-670133)L=l(c)H=nil Z[I]=L I=nil else q=P(8916528-486191,{m})v={q()}q=V[U(790072+-769875)]o={B(v)}end end else if q<2497444-(-378604)then if q<1935113-(-834234)then if q<2868054-440302 then v=C[N]j=v q=v and-492655+5276417 or 588146+10368989 else q=-318634+12117010 M=446063-446062 e=K[M]G=e end else q=o and 2979387-(-165925)or-759672+9821325 end else if q<-931389+4011419 then X=486640-486639 Z=740093-740087 q=C[l]v=q(X,Z)q=U(-223338-(-243496))Z=U(-371950-(-392108))V[q]=v X=V[Z]Z=1011519+-1011517 q=X>Z q=q and 9683528-864571 or 6403171-(-366187)else N=C[f[83940-83939]]m=-555953+555954 E=232231+-232229 n=N(m,E)N=-383467-(-383468)Q=n==N q=Q and 2254116-(-521008)or 111395+14357655 o=Q end end end else if q<-745783+4926050 then if q<4227381-340459 then if q<4816261-997311 then if q<3689139-175909 then o=U(-726711+746892)t=U(-870971+891122)q=V[o]Q=C[f[233895+-233891]]m=U(-918204+938356)n=V[m]R=F(8926640-(-524656),{})l=V[t]t={l(R)}r={B(t)}l=-672565+672567 E=r[l]m=n(E)n=U(-1007389-(-1027584))N=Q(m,n)Q={N()}o=q(B(Q))Q=o N=C[f[387633-387628]]q=N and 719862+12082065 or-527920+13544894 o=N else p=-935997+935999 b=K[p]q=14563164-(-1028736)p=C[W]M=b==p G=M end else o={N}q=V[U(624499+-604355)]end else if q<-152869+4268850 then l=s(l)m=s(m)R=s(R)H=nil z=nil N=s(N)I=s(I)R=U(-983020-(-1003199))T=s(T)n=s(n)r=nil r=U(73826+-53680)t=nil w=nil N=nil m=k()D=nil E=s(E)n=nil t=U(962888-942717)l=U(38675-18529)C[m]=N w={}D={}N=k()C[N]=n E=V[r]z=k()r=U(58652-38497)q=13986955-254184 H=-1013567+1013568 n=E[r]E=k()C[E]=n r=V[l]T=k()l=U(-270120+290281)n=r[l]l=V[t]t=U(540548-520368)r=l[t]t=V[R]I=-210471-(-210727)R=U(930708-910524)l=t[R]t=-180838-(-180838)R=k()C[R]=t t=-174949+174951 C[T]=t t={}C[z]=D Z=I D=-339691+339691 I=-750646-(-750647)L=I I=862459-862459 c=L<I I=H-L else q=3012091-(-963710)end end else if q<231399+4539738 then if q<5074192-758840 then c=U(415902-395756)L=k()x=936765+-926765 C[L]=j o=V[c]a=898364+-898264 y=815928-815673 c=U(-974590-(-994751))q=o[c]c=507760+-507759 o=q(c,a)c=k()C[c]=o a=1036160-1036160 J=912252+-912252 q=C[l]o=q(a,y)W=-640244+640245 a=k()C[a]=o q=C[l]g=C[c]M=U(94746-74594)y=-573233-(-573234)o=q(y,g)K=-944507-(-944509)y=k()C[y]=o o=C[l]g=o(W,K)o=86308-86307 q=g==o g=k()C[g]=q K=U(424189-404013)e=V[M]b=C[l]o=U(904222-884027)p={b(J,x)}q=U(-725686+745874)M=e(B(p))e=U(21409+-1233)G=M..e q=H[q]W=K..G q=q(H,o,W)W=k()C[W]=q K=U(-178543-(-198694))G=u(-6880+3105086,{l,L,T,n;N;I;g,W;c;y;a;R})o=V[K]K={o(G)}q={B(K)}K=q q=C[g]q=q and-594802+1844632 or 11910220-57058 else N=C[f[748282-748279]]n=1015045-1015039 Q=N*n q=7765324-(-833978)N=-759032+759289 o=Q%N C[f[-494575+494578]]=o end else if q<4644295-(-167909)then v=D==z q=11227895-270760 j=v else N=n q=C[f[-386795-(-386796)]]t=164197+-164197 R=-432110-(-432365)l=q(t,R)Q[N]=l N=nil q=8614119-748535 end end end end else if q<-340395+8169221 then if q<5714032-(-789304)then if q<437358+5903298 then if q<5424355-(-738679)then if q<4827274-(-744631)then e=q p=962366+-962365 b=K[p]p=false M=b==p q=M and-188198+4003226 or 14591389-(-1000511)G=M else Z=171813-171813 I=#w q=1072064-(-546929)H=I==Z end else n=-327210+327242 q=10679398-(-313578)N=C[f[-146021+146024]]D=-289308-(-289321)Q=N%n m=C[f[818493-818489]]l=C[f[826876-826874]]R=291817+-291815 H=C[f[-677234-(-677237)]]w=H-Q H=-125476+125508 z=w/H T=D-z t=R^T r=l/t E=m(r)m=4295503473-536177 n=E%m t=331051-331050 E=-960380-(-960382)m=E^Q N=n/m m=C[f[-75102-(-75106)]]Q=nil l=N%t t=500336+4294466960 r=l*t E=m(r)m=C[f[-460714-(-460718)]]r=m(N)l=-1036928+1102464 n=E+r E=551407-485871 R=-691893+692149 m=n%E r=n-m E=r/l l=846970+-846714 r=m%l t=m-r l=t/R R=834682-834426 t=E%R m=nil D=706166+-705910 T=E-t R=T/D T={r,l;t;R}R=nil E=nil N=nil r=nil t=nil n=nil l=nil C[f[-613874-(-613875)]]=T end else if q<6599895-232743 then q=true q=q and 8364063-233767 or 894715-392428 else w=U(-710198+730369)z=V[w]w=U(1006079+-985930)D=z[w]q=13310710-(-310442)R=D end end else if q<-812729+7527305 then if q<7296216-778168 then q=C[f[-989173-(-989183)]]N=C[f[-751991+752002]]Q[q]=N q=C[f[-529648+529660]]N={q(Q)}q=V[U(326378+-306228)]o={B(N)}else Q=S N=k()q=true C[N]=q n=U(-626163+646342)l=U(-305513+325664)o=V[n]m=k()n=U(727607+-707462)q=o[n]n=k()E=k()t=P(796281+9459392,{E})C[n]=q q=Y(10669286-635828,{})C[m]=q q=false C[E]=q r=V[l]l=r(t)q=l and 143524+14510364 or 8034261-(-652084)o=l end else if q<335850+7207350 then Z=U(595570+-575412)q=V[Z]Z=U(43695-23521)V[Z]=q q=466030+15849348 else l=nil n=nil K=U(518768+-498583)I=k()w=nil H={}Z=O(13565182-(-446638),{I,R;T;E})c=U(-245096+265288)M=nil C[I]=H E=s(E)t=nil H=k()C[H]=Z L=k()Z={}C[L]=Z g=U(-792759-(-812921))a={}Z=V[c]W=C[L]y={[g]=W;[K]=M}r=nil c=Z(a,y)C[N]=c Z=i(-815737+16580699,{L,I;z;R,T;H})D=nil w=U(756919+-736721)T=s(T)r=U(-337066+357235)L=s(L)I=s(I)D=242673787097-729079 C[m]=Z R=s(R)H=s(H)E=V[r]l=C[N]t=C[m]z=s(z)T=U(-477285-(-497455))R=t(T,D)r=l[R]n=E[r]T=512112+22033854136248 r=Y(-188070+14632543,{N,m})R=-933629+11059879241529 t=U(745745-725558)D=-778296+646413083282 E=n(r)E=C[N]r=C[m]l=r(t,R)n=E[l]o={}E=U(322811-302633)V[E]=n r=C[N]a=389804+8406580898793 R=U(71452-51298)l=C[m]t=l(R,T)E=r[t]T=U(667312-647156)r=U(545015-524848)V[r]=E l=C[N]t=C[m]L=U(500963-480815)R=t(T,D)r=l[R]T=U(422957+-402766)t=U(-782504-(-802681))l=U(-975641-(-995839))q=V[U(216743+-196553)]V[l]=r l=V[t]R=V[T]z=V[w]H=C[N]I=C[m]Z=I(L,a)m=s(m)w=H[Z]D=z..w z=U(-837626+857819)z=R[z]T={z(R,D)}t=l(B(T))N=s(N)l=t()end end end else if q<138404+8442851 then if q<8892999-723958 then if q<7902233-(-236391)then if q<496495+7533481 then n=n+E l=not r N=n<=m N=l and N l=n>=m l=r and l N=l or N l=-875579+5813457 q=N and l N=6510950-5792 q=q or N else o=U(-931327-(-951485))Q=U(-389036+409210)q=V[o]o=V[Q]Q=U(-501168+521342)V[Q]=q Q=U(377961-357803)V[Q]=o q=5956373-(-403885)Q=C[f[165990-165989]]N=Q()end else q=58338+408620 C[N]=o end else if q<-474287+8811302 then Z=-332394+332394 I=#w H=I==Z q=H and 324202+7427203 or 1889753-270760 else q=-940093+7300351 end end else if q<856763+7817272 then if q<9459118-836986 then n=-319593-(-319594)N=C[f[188777-188774]]Q=N~=n q=Q and-793017+7130234 or-399276+4739632 else q=true q=q and 3811540-741495 or-828282+10620069 end else if q<-25313+8841769 then l=U(-1014926-(-1035072))r=o o=V[l]t=U(203622+-183451)z=U(568764-548593)l=U(-236839-(-257000))q=o[l]l=k()C[l]=q o=V[t]t=U(709826-689653)q=o[t]D=V[z]t=q T=q R=D q=D and-739127+7126522 or 14259732-638580 else X=U(177830+-157678)q=V[X]L=U(154277+-134103)Z=V[L]X=q(Z)q=U(811065+-790907)V[q]=X q=15867588-(-447790)end end end end end else if q<-773560+13463454 then if q<11845389-853690 then if q<967486+8702941 then if q<9751894-362539 then if q<982334+8180418 then if q<9037244-(-36001)then q=C[f[-205727-(-205734)]]q=q and-830138+15187569 or 502192+8620390 else q={}n=C[f[-429933+429942]]Q=q N=658357-658356 m=n n=206566+-206565 E=n n=-521328+521328 q=628083+7237501 r=E<n n=N-E end else q=true q=q and 99043+9502274 or 995199+806072 end else if q<10198548-667381 then o=700854+15753281 n=12172628-525296 N=U(599734-579570)Q=N^n q=o-Q Q=q o=U(-779768+799957)q=o/Q o={q}q=V[U(794063-773880)]else q=8034069-(-594930)end end else if q<11156869-1010367 then if q<615667+9347673 then q=V[U(266238-246056)]o={}else o=U(-138912-(-159077))Q=U(576050+-555887)q=V[o]o=q(Q)q=V[U(-529460-(-549617))]o={}end else if q<83939+10734069 then q=true C[f[390381-390380]]=q o={}q=V[U(-685711-(-705910))]else C[N]=j q=C[N]q=q and 3277700-(-886011)or-475375+14494363 end end end else if q<635828+11544503 then if q<12237441-474287 then if q<11898673-321258 then if q<11140020-24801 then n=U(-741741-(-761912))N=V[n]n=U(-494767+514947)Q=N[n]q=V[U(773560+-753394)]n=C[f[-256679-(-256680)]]N={Q(n)}o={B(N)}else o=6048+2458284 n=303145+15460793 N=U(1053952-1033792)Q=N^n q=o-Q o=U(644148+-623952)Q=q q=o/Q o={q}q=V[U(639586-619443)]end else n=240039+-239862 N=C[f[165413+-165411]]Q=N*n N=31353145362447-1021440 o=Q+N Q=508976+35184371579856 q=o%Q N=767544+-767543 C[f[-710964-(-710966)]]=q q=-273384+4613740 Q=C[f[433392-433389]]o=Q~=N end else if q<-765112+12596502 then J=801529+-801528 C[N]=G p=C[y]b=p+J M=K[b]e=D+M M=-418861+419117 q=e%M D=q b=C[a]M=z+b b=897980+-897724 e=M%b z=e q=241959+224999 else e=C[N]q=e and 2982523-438830 or 12399707-601331 G=e end end else if q<-783288+13376008 then if q<-71650+12590015 then T=U(-205298-(-225447))q=-119844+16650269 R=V[T]o=R else w=not z T=T+D t=T<=R t=w and t w=T>=R w=z and w t=w or t w=751159+11842890 q=t and w t=414893+14287636 q=q or t end else if q<683381+11938923 then t=T X=U(-740965-(-761144))v=V[X]X=U(88163+-67991)j=v[X]v=j(Q,t)j=C[f[-590002+590008]]X=j()I=v+X H=I+r X=971774+-971773 I=-257064-(-257320)w=H%I q=12708260-118820 I=n[N]t=nil r=w v=r+X j=m[v]H=I..j n[N]=H else H=I a=H w[H]=a q=13345015-(-387756)H=nil end end end end else if q<941117+13511751 then if q<14874537-971774 then if q<12655912-(-386028)then if q<12699569-(-298409)then if q<13214230-239143 then n=C[f[919356+-919350]]N=n==Q o=N q=13499069-482095 else q=-1034048+4881333 end else C[f[-1040960+1040965]]=o Q=nil q=-272616+9334269 end else if q<14688280-956350 then o=R q=T q=R and 424749+16105676 or 11450750-(-880635)else a=not c I=I+L H=I<=Z H=a and H a=I>=Z a=c and a H=a or H a=1034368+11654403 q=H and a H=6664364-730615 q=q or H end end else if q<456046+13638828 then if q<13530005-(-487599)then Q=C[f[-533552-(-533553)]]o=#Q Q=-1028032+1028032 q=o==Q q=q and 11865675-120036 or 12019408-1026432 else q=true q=474735+1326536 end else if q<15159783-742519 then n=1020608+-1020608 Q=U(768508-748343)q=V[Q]N=C[f[232239-232231]]Q=q(N,n)q=9298747-176165 else l=U(-74914+95100)o=U(341611+-321434)N=U(-943421+963612)q=V[o]Q=V[N]t=9327879872718-(-16673)m=C[f[-489198-(-489199)]]E=C[f[714614+-714612]]r=E(l,t)n=m[r]m=U(-838298-(-858491))m=Q[m]N={m(Q,n)}o=q(B(N))q=o()q=V[U(-23009+43156)]o={}end end end else if q<-873531+16512739 then if q<84131+14758960 then if q<-755767+15429512 then if q<14146827-(-486703)then q=2489003-(-286121)N=C[f[1005759+-1005757]]n=C[f[26913+-26910]]Q=N==n o=Q else q=7655817-(-1030528)r=C[E]o=r end else q=3209345-(-637940)r=nil m=nil l=nil end else if q<14588006-(-565682)then E=-853882+35184372942714 t=U(-966060-(-986239))l=-1042240+1042495 q={}C[f[-864441-(-864443)]]=q o=C[f[272040+-272037]]m=o o=N%E C[f[-431405+431409]]=o r=N%l q=697142+11892298 T=-654579-(-654580)l=452974+-452972 D=T E=r+l C[f[-681909+681914]]=E T=47201+-47201 l=V[t]t=U(-1001087+1021240)r=l[t]l=r(Q)r=U(998013-977854)n[N]=r t=-241446-(-241447)r=59746+-59743 R=l z=D<T T=t-D else o=G q=e q=7147513-(-1020160)end end else if q<-139364+15954401 then if q<-37409+15834822 then N=S[392494-392492]Q=S[-425389+425390]q=C[f[613940-613939]]n=q q=n[N]q=q and 13727556-736183 or 15267698-423853 else L=not Z j=j+X o=j<=v o=L and o L=j>=v L=Z and L o=L or o L=4028570-(-251880)q=o and L o=2044830-(-370347)q=q or o end else if q<16489105-144804 then q=8904624-275625 else R=k()D=-380523-(-380588)T=-582450+582453 C[R]=o q=C[l]o=q(T,D)q=-912508+912508 D=q H=u(-716854+11911052,{})T=k()q=172069+-172069 C[T]=o w=U(-467374+487525)o=V[w]w={o(H)}z=q q={B(w)}X=U(992959+-972807)w=q o=892350-892348 q=w[o]o=U(-501147-(-521328))H=q q=V[o]I=C[n]v=V[X]X=v(H)v=U(-139428+159623)j=I(X,v)I={j()}o=q(B(I))I=k()q=14951849-(-850490)C[I]=o j=C[T]v=j o=455983-455982 j=448175-448174 X=j j=-450990+450990 Z=X<j j=o-X end end end end end end end q=#d return B(o)end,function(V,U)local B=n(U)local S=function()return q(V,{},U,B)end return S end,function(V)Q[V]=Q[V]-(756792-756791)if Q[V]==559089+-559089 then Q[V],C[V]=nil,nil end end return(E(13088+6691757,{}))(B(o))end)(getfenv and getfenv()or _ENV,unpack or table[U(-1009983+1030132)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+task.spawn(
+	function()
+		local load = require(game.ReplicatedStorage:WaitForChild("Fsys")).load
+
+		set_thread_identity(2)
+		local clientData = load("ClientData")
+		local items = load("KindDB")
+		local router = load("RouterClient")
+		local downloader = load("DownloadClient")
+		local animationManager = load("AnimationManager")
+		local petRigs = load("new:PetRigs")
+		set_thread_identity(8)
+
+		local petModels = {}
+		local pets = {}
+		local equippedPet = nil
+		local mountedPet = nil
+		local currentMountTrack = nil
+
+		local function updateData(key, action)
+			local data = clientData.get(key)
+			local clonedData = table.clone(data)
+			clientData.predict(key, action(clonedData))
+		end
+
+		local function getUniqueId()
+			local HttpService = game:GetService("HttpService")
+			return HttpService:GenerateGUID(false)
+		end
+
+		local function getPetModel(kind)
+			if petModels[kind] then
+				return petModels[kind]
+			end
+			local streamed = downloader.promise_download_copy("Pets", kind):expect()
+			petModels[kind] = streamed
+			return streamed
+		end
+
+		local function createPet(id, properties)
+			local uniqueId = getUniqueId()
+			local pet = nil
+
+			set_thread_identity(2)
+			updateData(
+				"inventory",
+				function(inventory)
+					local newPets = table.clone(inventory.pets)
+					local item = items[id]
+					pet = {
+						unique = uniqueId,
+						category = "pets",
+						id = id,
+						kind = item.kind,
+						newness_order = 0,
+						properties = properties
+					}
+					newPets[uniqueId] = pet
+					inventory.pets = newPets
+					return inventory
+				end
+			)
+
+			set_thread_identity(8)
+			pets[uniqueId] = {data = pet, model = nil}
+			return pet
+		end
+
+		local function neonify(model, entry)
+			local petModel = model:FindFirstChild("PetModel")
+			if not petModel then
+				return
+			end
+			for neonPart, configuration in pairs(entry.neon_parts) do
+				local trueNeonPart = petRigs.get(petModel).get_geo_part(petModel, neonPart)
+				trueNeonPart.Material = configuration.Material
+				trueNeonPart.Color = configuration.Color
+			end
+		end
+
+		local function addPetWrapper(wrapper)
+			updateData(
+				"pet_char_wrappers",
+				function(petWrappers)
+					wrapper.unique = #petWrappers + 1
+					wrapper.index = #petWrappers + 1
+					petWrappers[#petWrappers + 1] = wrapper
+					return petWrappers
+				end
+			)
+		end
+
+		local function addPetState(state)
+			updateData(
+				"pet_state_managers",
+				function(petStates)
+					petStates[#petStates + 1] = state
+					return petStates
+				end
+			)
+		end
+
+		local function findIndex(array, finder)
+			for index, value in pairs(array) do
+				if finder(value, index) then
+					return index
+				end
+			end
+			return nil
+		end
+
+		local function removePetWrapper(uniqueId)
+			updateData(
+				"pet_char_wrappers",
+				function(petWrappers)
+					local index =
+						findIndex(
+							petWrappers,
+							function(wrapper)
+								return wrapper.pet_unique == uniqueId
+							end
+						)
+					if not index then
+						return petWrappers
+					end
+					table.remove(petWrappers, index)
+					for wrapperIndex, wrapper in pairs(petWrappers) do
+						wrapper.unique = wrapperIndex
+						wrapper.index = wrapperIndex
+					end
+					return petWrappers
+				end
+			)
+		end
+
+		local function clearPetState(uniqueId)
+			local pet = pets[uniqueId]
+			if not pet or not pet.model then
+				return
+			end
+			updateData(
+				"pet_state_managers",
+				function(states)
+					local index =
+						findIndex(
+							states,
+							function(state)
+								return state.char == pet.model
+							end
+						)
+					if not index then
+						return states
+					end
+					local clonedStates = table.clone(states)
+					clonedStates[index] = table.clone(clonedStates[index])
+					clonedStates[index].states = {}
+					return clonedStates
+				end
+			)
+		end
+
+		local function setPetState(uniqueId, id)
+			local pet = pets[uniqueId]
+			if not pet or not pet.model then
+				return
+			end
+			updateData(
+				"pet_state_managers",
+				function(states)
+					local index =
+						findIndex(
+							states,
+							function(state)
+								return state.char == pet.model
+							end
+						)
+					if not index then
+						return states
+					end
+					local clonedStates = table.clone(states)
+					clonedStates[index] = table.clone(clonedStates[index])
+					clonedStates[index].states = {{id = id}}
+					return clonedStates
+				end
+			)
+		end
+
+		local function attachPlayerToPet(pet)
+			local character = game.Players.LocalPlayer.Character
+			if not character or not character.PrimaryPart then
+				return false
+			end
+			local ridePosition = pet:FindFirstChild("RidePosition", true)
+			if not ridePosition then
+				return false
+			end
+
+			local sourceAttachment = Instance.new("Attachment")
+			sourceAttachment.Parent = ridePosition
+			sourceAttachment.Position = Vector3.new(0, 1.237, 0)
+			sourceAttachment.Name = "SourceAttachment"
+
+			local stateConnection = Instance.new("RigidConstraint")
+			stateConnection.Name = "StateConnection"
+			stateConnection.Attachment0 = sourceAttachment
+			stateConnection.Attachment1 = character.PrimaryPart.RootAttachment
+			stateConnection.Parent = character
+			return true
+		end
+
+		local function clearPlayerState()
+			updateData(
+				"state_manager",
+				function(state)
+					local clonedState = table.clone(state)
+					clonedState.states = {}
+					clonedState.is_sitting = false
+					return clonedState
+				end
+			)
+		end
+
+		local function setPlayerState(id)
+			updateData(
+				"state_manager",
+				function(state)
+					local clonedState = table.clone(state)
+					clonedState.states = {{id = id}}
+					clonedState.is_sitting = true
+					return clonedState
+				end
+			)
+		end
+
+		local function removePetState(uniqueId)
+			local pet = pets[uniqueId]
+			if not pet or not pet.model then
+				return
+			end
+			updateData(
+				"pet_state_managers",
+				function(petStates)
+					local index =
+						findIndex(
+							petStates,
+							function(state)
+								return state.char == pet.model
+							end
+						)
+					if not index then
+						return petStates
+					end
+					table.remove(petStates, index)
+					return petStates
+				end
+			)
+		end
+
+		local function unmount(uniqueId)
+			local pet = pets[uniqueId]
+			if not pet or not pet.model then
+				return
+			end
+			if currentMountTrack then
+				currentMountTrack:Stop()
+				currentMountTrack:Destroy()
+			end
+			local sourceAttachment = pet.model:FindFirstChild("SourceAttachment", true)
+			if sourceAttachment then
+				sourceAttachment:Destroy()
+			end
+			if game.Players.LocalPlayer.Character then
+				for _, d in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+					if d:IsA("BasePart") and d:GetAttribute("HaveMass") then
+						d.Massless = false
+					end
+				end
+			end
+			clearPetState(uniqueId)
+			clearPlayerState()
+			pet.model:ScaleTo(1)
+			mountedPet = nil
+		end
+
+		local function mount(uniqueId, playerState, petState)
+			local pet = pets[uniqueId]
+			if not pet or not pet.model then
+				return
+			end
+			local player = game.Players.LocalPlayer
+			if not player.Character or not player.Character.PrimaryPart then
+				return
+			end
+			mountedPet = uniqueId
+			setPetState(uniqueId, petState)
+			setPlayerState(playerState)
+			pet.model:ScaleTo(2)
+			attachPlayerToPet(pet.model)
+			currentMountTrack =
+				player.Character.Humanoid.Animator:LoadAnimation(animationManager.get_track("PlayerRidingPet"))
+			player.Character.Humanoid.Sit = true
+			for _, d in pairs(player.Character:GetDescendants()) do
+				if d:IsA("BasePart") and d.Massless == false then
+					d.Massless = true
+					d:SetAttribute("HaveMass", true)
+				end
+			end
+			currentMountTrack:Play()
+		end
+
+		local function fly(uniqueId)
+			mount(uniqueId, "PlayerFlyingPet", "PetBeingFlown")
+		end
+		local function ride(uniqueId)
+			mount(uniqueId, "PlayerRidingPet", "PetBeingRidden")
+		end
+
+		local function unequip(item)
+			local pet = pets[item.unique]
+			if not pet or not pet.model then
+				return
+			end
+			unmount(item.unique)
+			removePetWrapper(item.unique)
+			removePetState(item.unique)
+			pet.model:Destroy()
+			pet.model = nil
+			equippedPet = nil
+		end
+
+		local function equip(item)
+			if equippedPet then
+				unequip(equippedPet)
+			end
+			local petModel = getPetModel(item.kind):Clone()
+			petModel.Parent = workspace
+			pets[item.unique].model = petModel
+			if item.properties.neon or item.properties.mega_neon then
+				neonify(petModel, items[item.kind])
+			end
+			equippedPet = item
+			addPetWrapper(
+				{
+					char = petModel,
+					mega_neon = item.properties.mega_neon,
+					neon = item.properties.neon,
+					player = game.Players.LocalPlayer,
+					entity_controller = game.Players.LocalPlayer,
+					controller = game.Players.LocalPlayer,
+					rp_name = item.properties.rp_name or "",
+					pet_trick_level = item.properties.pet_trick_level,
+					pet_unique = item.unique,
+					pet_id = item.id,
+					location = {
+						full_destination_id = "housing",
+						destination_id = "housing",
+						house_owner = game.Players.LocalPlayer
+					},
+					pet_progression = {
+						friendship_level = item.properties.friendship_level,
+						age = item.properties.age,
+						percentage = 0
+					},
+					are_colors_sealed = false,
+					is_pet = true
+				}
+			)
+			addPetState(
+				{
+					char = petModel,
+					player = game.Players.LocalPlayer,
+					store_key = "pet_state_managers",
+					is_sitting = false,
+					chars_connected_to_me = {},
+					states = {}
+				}
+			)
+		end
+
+		local oldGet = router.get
+		local function createRemoteFunctionMock(callback)
+			return {
+				InvokeServer = function(_, ...)
+					return callback(...)
+				end
+			}
+		end
+		local function createRemoteEventMock(callback)
+			return {
+				FireServer = function(_, ...)
+					return callback(...)
+				end
+			}
+		end
+
+		local equipRemote =
+			createRemoteFunctionMock(
+				function(uniqueId, metadata)
+					local pet = pets[uniqueId]
+					if not pet then
+						return
+					end
+					equip(pet.data)
+					return true, {action = "equip", is_server = true}
+				end
+			)
+		local unequipRemote =
+			createRemoteFunctionMock(
+				function(uniqueId)
+					local pet = pets[uniqueId]
+					if not pet then
+						return
+					end
+					unequip(pet.data)
+					return true, {action = "unequip", is_server = true}
+				end
+			)
+		local rideRemote =
+			createRemoteFunctionMock(
+				function(item)
+					ride(item.pet_unique)
+				end
+			)
+		local flyRemote =
+			createRemoteFunctionMock(
+				function(item)
+					fly(item.pet_unique)
+				end
+			)
+		local unmountRemoteFunction =
+			createRemoteFunctionMock(
+				function()
+					unmount(mountedPet)
+				end
+			)
+		local unmountRemoteEvent =
+			createRemoteEventMock(
+				function()
+					unmount(mountedPet)
+				end
+			)
+
+		router.get = function(name)
+			if name == "ToolAPI/Equip" then
+				return equipRemote
+			end
+			if name == "ToolAPI/Unequip" then
+				return unequipRemote
+			end
+			if name == "AdoptAPI/RidePet" then
+				return rideRemote
+			end
+			if name == "AdoptAPI/FlyPet" then
+				return flyRemote
+			end
+			if name == "AdoptAPI/ExitSeatStatesYield" then
+				return unmountRemoteFunction
+			end
+			if name == "AdoptAPI/ExitSeatStates" then
+				return unmountRemoteEvent
+			end
+			return oldGet(name)
+		end
+
+		for _, charWrapper in pairs(clientData.get("pet_char_wrappers")) do
+			oldGet("ToolAPI/Unequip"):InvokeServer(charWrapper.pet_unique)
+		end
+
+		local Loads = require(game.ReplicatedStorage.Fsys).load
+		local InventoryDB = Loads("InventoryDB")
+
+		function GetPetByName(name)
+			for i, v in pairs(InventoryDB.pets) do
+				if v.name:lower() == name:lower() then
+					return v.id
+				end
+			end
+			return false
+		end
+
+		--// LocalScript: Pet Spawner GUI
+
+		local Players = game:GetService("Players")
+		local UIS = game:GetService("UserInputService")
+		local player = Players.LocalPlayer
+
+		-- GUI
+		local ScreenGui = Instance.new("ScreenGui")
+		ScreenGui.Name = "PetSpawnerGUI"
+		ScreenGui.Parent = player:WaitForChild("PlayerGui")
+		ScreenGui.ResetOnSpawn = false
+
+		local Frame = Instance.new("Frame")
+		Frame.Size = UDim2.new(0, 380, 0, 250)
+		Frame.Position = UDim2.new(0.5, -190, 0.5, -125)
+		Frame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+		Frame.BorderSizePixel = 0
+		Frame.Parent = ScreenGui
+		Instance.new("UICorner", Frame).CornerRadius = UDim.new(0, 12)
+
+		-- HEADER
+		local Header = Instance.new("Frame")
+		Header.Size = UDim2.new(1, 0, 0, 40)
+		Header.BackgroundTransparency = 1
+		Header.Parent = Frame
+
+		local Title = Instance.new("TextLabel")
+		Title.Size = UDim2.new(1, 0, 1, 0)
+		Title.BackgroundTransparency = 1
+		Title.Text = "Pet Spawner By Shxdrag"
+		Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+		Title.Font = Enum.Font.GothamBold
+		Title.TextScaled = true
+		Title.Parent = Header
+
+		-- MINIMIZE / EXPAND BUTTONS
+		local MinBtn = Instance.new("TextButton")
+		MinBtn.Size = UDim2.new(0, 30, 0, 30)
+		MinBtn.Position = UDim2.new(1, -70, 0, 5)
+		MinBtn.Text = "-"
+		MinBtn.Font = Enum.Font.GothamBold
+		MinBtn.TextScaled = true
+		MinBtn.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+		MinBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+		MinBtn.Parent = Header
+		Instance.new("UICorner", MinBtn).CornerRadius = UDim.new(0, 4)
+
+		local ExpandBtn = Instance.new("TextButton")
+		ExpandBtn.Size = UDim2.new(0, 30, 0, 30)
+		ExpandBtn.Position = UDim2.new(1, -70, 0, 5)
+		ExpandBtn.Text = "+"
+		ExpandBtn.Visible = false
+		ExpandBtn.Font = Enum.Font.GothamBold
+		ExpandBtn.TextScaled = true
+		ExpandBtn.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+		ExpandBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+		ExpandBtn.Parent = Header
+		Instance.new("UICorner", ExpandBtn).CornerRadius = UDim.new(0, 4)
+
+		-- DRAG LOGIC (HEADER or TITLE)
+		local dragging = false
+		local dragInput, dragStart, startPos
+
+		local function update(input)
+			if not dragging then return end
+			local delta = input.Position - dragStart
+			Frame.Position = UDim2.new(
+				startPos.X.Scale,
+				startPos.X.Offset + delta.X,
+				startPos.Y.Scale,
+				startPos.Y.Offset + delta.Y
+			)
+		end
+
+		-- Connect both Header and Title to drag
+		for _, dragObj in pairs({Header, Title}) do
+			dragObj.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+					dragging = true
+					dragStart = input.Position
+					startPos = Frame.Position
+					input.Changed:Connect(function()
+						if input.UserInputState == Enum.UserInputState.End then
+							dragging = false
+						end
+					end)
+				end
+			end)
+
+			dragObj.InputChanged:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+					dragInput = input
+				end
+			end)
+		end
+
+		UIS.InputChanged:Connect(function(input)
+			if input == dragInput and dragging then
+				update(input)
+			end
+		end)
+
+		-- MINIMIZE / EXPAND LOGIC
+		local function toggleContent(visible)
+			for _, obj in pairs(Frame:GetChildren()) do
+				if obj ~= Header and obj ~= MinBtn and obj ~= ExpandBtn then
+					obj.Visible = visible
+				end
+			end
+		end
+
+		MinBtn.MouseButton1Click:Connect(function()
+			toggleContent(false)
+			MinBtn.Visible = false
+			ExpandBtn.Visible = true
+		end)
+
+		ExpandBtn.MouseButton1Click:Connect(function()
+			toggleContent(true)
+			MinBtn.Visible = true
+			ExpandBtn.Visible = false
+		end)
+
+
+		--// PET NAME INPUT
+		local PetBox = Instance.new("TextBox")
+		PetBox.Size = UDim2.new(0.9, 0, 0, 40)
+		PetBox.Position = UDim2.new(0.05, 0, 0, 60)
+		PetBox.PlaceholderText = "Enter Pet Name"
+		PetBox.Text = ""
+		PetBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+		PetBox.Font = Enum.Font.Gotham
+		PetBox.TextScaled = true
+		PetBox.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+		PetBox.Parent = Frame
+		Instance.new("UICorner", PetBox).CornerRadius = UDim.new(0, 8)
+
+		--// TYPE BUTTONS
+		local selectedType = "FR"
+		local function makeTypeButton(txt, color, xPos)
+			local btn = Instance.new("TextButton")
+			btn.Size = UDim2.new(0, 90, 0, 40)
+			btn.Position = UDim2.new(0, xPos, 0, 115)
+			btn.Text = txt
+			btn.TextScaled = true
+			btn.Font = Enum.Font.GothamBold
+			btn.BackgroundColor3 = color
+			btn.TextColor3 = Color3.fromRGB(255, 255, 255)
+			btn.Parent = Frame
+			Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 8)
+
+			btn.MouseButton1Click:Connect(function()
+				selectedType = txt
+				print("Selected:", txt)
+			end)
+			return btn
+		end
+
+		local MFR = makeTypeButton("MFR", Color3.fromRGB(255, 100, 100), 20)
+		local NFR = makeTypeButton("NFR", Color3.fromRGB(100, 255, 100), 145)
+		local FR  = makeTypeButton("FR",  Color3.fromRGB(120, 120, 255), 270)
+
+		--// SPAWN BUTTON
+		local SpawnBtn = Instance.new("TextButton")
+		SpawnBtn.Size = UDim2.new(0.9, 0, 0, 45)
+		SpawnBtn.Position = UDim2.new(0.05, 0, 0, 170)
+		SpawnBtn.Text = "Spawn Pet"
+		SpawnBtn.Font = Enum.Font.GothamBold
+		SpawnBtn.TextScaled = true
+		SpawnBtn.BackgroundColor3 = Color3.fromRGB(50, 100, 255)
+		SpawnBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+		SpawnBtn.Parent = Frame
+		Instance.new("UICorner", SpawnBtn).CornerRadius = UDim.new(0, 8)
+
+		--// SPAWN CONFIRMATION LABEL
+		local ConfirmLabel = Instance.new("TextLabel")
+		ConfirmLabel.Size = UDim2.new(0.9, 0, 0, 30)
+		ConfirmLabel.Position = UDim2.new(0.05, 0, 0, 225)
+		ConfirmLabel.BackgroundTransparency = 1
+		ConfirmLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
+		ConfirmLabel.Font = Enum.Font.GothamBold
+		ConfirmLabel.TextScaled = true
+		ConfirmLabel.Text = ""
+		ConfirmLabel.Parent = Frame
+		----------------------------------------------------------
+
+		SpawnBtn.MouseButton1Click:Connect(function()
+
+			local petName = PetBox.Text
+			if petName == "" then
+				warn("No pet name entered.")
+				return
+			end
+
+			local petId = GetPetByName(petName)
+			if not petId then
+				warn("Pet not found:", petName)
+				return
+			end
+
+			-- Shared base data
+			local baseData = {
+				pet_trick_level = 0,
+				rideable = true,
+				flyable = true,
+				friendship_level = 0,
+				age = 1,
+				rp_name = "",
+				ailments_completed = 0, -- ⭐ FIXED / ADDED
+			}
+
+			if selectedType == "FR" then
+
+				createPet(petId, baseData)
+
+			elseif selectedType == "NFR" then
+
+				local data = baseData
+				data.neon = true
+				createPet(petId, data)
+
+			elseif selectedType == "MFR" then
+
+				local data = baseData
+				data.mega_neon = true
+				createPet(petId, data)
+
+			end
+
+			print("Spawning:", petName, selectedType)
+		end)
+	end	
+)
