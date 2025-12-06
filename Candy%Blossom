@@ -513,7 +513,7 @@ task.spawn(
 		Title.TextScaled = true
 		Title.Parent = Header
 
-		-- MINIMIZE / EXPAND BUTTONS
+		-- MINIMIZE / EXPAND BUTTO
 		local MinBtn = Instance.new("TextButton")
 		MinBtn.Size = UDim2.new(0, 30, 0, 30)
 		MinBtn.Position = UDim2.new(1, -70, 0, 5)
